@@ -1,0 +1,10 @@
+E:\Installers\Terraria\Codes and Shit\Tshock debug\ServerPlugins\CommandShop.dll
+E:\Installers\Terraria\Codes and Shit\Tshock debug\ServerPlugins\CommandShop.pdb
+E:\Installers\Terraria\Codes and Shit\Vharonftw\CommandCostV2\obj\Debug\ResolveAssemblyReference.cache
+E:\Installers\Terraria\Codes and Shit\Vharonftw\CommandCostV2\obj\Debug\CommandShop.dll
+E:\Installers\Terraria\Codes and Shit\Vharonftw\CommandCostV2\obj\Debug\CommandShop.pdb
+C:\Documents and Settings\Namqui\Desktop\Kyrie\Dropbox\Codes and Shit\Tshock debug\ServerPlugins\CommandShop.dll
+C:\Documents and Settings\Namqui\Desktop\Kyrie\Dropbox\Codes and Shit\Tshock debug\ServerPlugins\CommandShop.pdb
+C:\Documents and Settings\Namqui\Desktop\Kyrie\Dropbox\Codes and Shit\Vharonftw\CommandCostV2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Namqui\Desktop\Kyrie\Dropbox\Codes and Shit\Vharonftw\CommandCostV2\obj\Debug\CommandShop.dll
+C:\Documents and Settings\Namqui\Desktop\Kyrie\Dropbox\Codes and Shit\Vharonftw\CommandCostV2\obj\Debug\CommandShop.pdb

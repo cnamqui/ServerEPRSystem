@@ -1,0 +1,15 @@
+E:\Installers\Terraria\New folder\Vharonftw\RankSystem\bin\Release\RankSystem.dll
+E:\Installers\Terraria\New folder\Vharonftw\RankSystem\bin\Release\RankSystem.pdb
+E:\Installers\Terraria\New folder\Vharonftw\RankSystem\bin\Release\Community.CsharpSqlite.dll
+E:\Installers\Terraria\New folder\Vharonftw\RankSystem\bin\Release\Community.CsharpSqlite.SQLiteClient.dll
+E:\Installers\Terraria\New folder\Vharonftw\RankSystem\bin\Release\MySql.Data.dll
+E:\Installers\Terraria\New folder\Vharonftw\RankSystem\bin\Release\Newtonsoft.Json.dll
+E:\Installers\Terraria\New folder\Vharonftw\RankSystem\bin\Release\ServerPointSystem.dll
+E:\Installers\Terraria\New folder\Vharonftw\RankSystem\bin\Release\TerrariaServer.exe
+E:\Installers\Terraria\New folder\Vharonftw\RankSystem\bin\Release\TerrariaServerAPI.dll
+E:\Installers\Terraria\New folder\Vharonftw\RankSystem\bin\Release\TShockAPI.dll
+E:\Installers\Terraria\New folder\Vharonftw\RankSystem\bin\Release\XNAHelpers.dll
+E:\Installers\Terraria\New folder\Vharonftw\RankSystem\bin\Release\ServerPointSystem.pdb
+E:\Installers\Terraria\New folder\Vharonftw\RankSystem\obj\Release\ResolveAssemblyReference.cache
+E:\Installers\Terraria\New folder\Vharonftw\RankSystem\obj\Release\RankSystem.dll
+E:\Installers\Terraria\New folder\Vharonftw\RankSystem\obj\Release\RankSystem.pdb

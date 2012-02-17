@@ -1,0 +1,34 @@
+E:\Installers\Terraria\New folder\Vharonftw\ServerShopSystem\obj\Debug\ResolveAssemblyReference.cache
+E:\Installers\Terraria\New folder\Vharonftw\ServerShopSystem\bin\Debug\ServerShopSystem.dll
+E:\Installers\Terraria\New folder\Vharonftw\ServerShopSystem\bin\Debug\ServerShopSystem.pdb
+E:\Installers\Terraria\New folder\Vharonftw\ServerShopSystem\bin\Debug\Community.CsharpSqlite.dll
+E:\Installers\Terraria\New folder\Vharonftw\ServerShopSystem\bin\Debug\Community.CsharpSqlite.SQLiteClient.dll
+E:\Installers\Terraria\New folder\Vharonftw\ServerShopSystem\bin\Debug\MySql.Data.dll
+E:\Installers\Terraria\New folder\Vharonftw\ServerShopSystem\bin\Debug\Newtonsoft.Json.dll
+E:\Installers\Terraria\New folder\Vharonftw\ServerShopSystem\bin\Debug\ServerPointSystem.dll
+E:\Installers\Terraria\New folder\Vharonftw\ServerShopSystem\bin\Debug\TerrariaServer.exe
+E:\Installers\Terraria\New folder\Vharonftw\ServerShopSystem\bin\Debug\TerrariaServerAPI.dll
+E:\Installers\Terraria\New folder\Vharonftw\ServerShopSystem\bin\Debug\TShockAPI.dll
+E:\Installers\Terraria\New folder\Vharonftw\ServerShopSystem\bin\Debug\XNAHelpers.dll
+E:\Installers\Terraria\New folder\Vharonftw\ServerShopSystem\bin\Debug\ServerPointSystem.pdb
+E:\Installers\Terraria\New folder\Vharonftw\ServerShopSystem\obj\Debug\ServerShopSystem.dll
+E:\Installers\Terraria\New folder\Vharonftw\ServerShopSystem\obj\Debug\ServerShopSystem.pdb
+E:\Installers\Terraria\New folder\Tshock debug\ServerPlugins\ServerShopSystem.dll
+E:\Installers\Terraria\New folder\Tshock debug\ServerPlugins\ServerShopSystem.pdb
+E:\Installers\Terraria\New folder\Vharonftw\Debug\ServerShopSystem.dll
+E:\Installers\Terraria\New folder\Vharonftw\Debug\ServerShopSystem.pdb
+C:\Documents and Settings\Namqui\Desktop\Codes\Tshock debug\ServerPlugins\ServerShopSystem.dll
+C:\Documents and Settings\Namqui\Desktop\Codes\Tshock debug\ServerPlugins\ServerShopSystem.pdb
+C:\Documents and Settings\Namqui\Desktop\Codes\Vharonftw\ServerShopSystem\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Namqui\Desktop\Codes\Vharonftw\ServerShopSystem\obj\Debug\ServerShopSystem.dll
+C:\Documents and Settings\Namqui\Desktop\Codes\Vharonftw\ServerShopSystem\obj\Debug\ServerShopSystem.pdb
+E:\Installers\Terraria\Codes and Shit\Tshock debug\ServerPlugins\ServerShopSystem.dll
+E:\Installers\Terraria\Codes and Shit\Tshock debug\ServerPlugins\ServerShopSystem.pdb
+E:\Installers\Terraria\Codes and Shit\Vharonftw\ServerShopSystem\obj\Debug\ResolveAssemblyReference.cache
+E:\Installers\Terraria\Codes and Shit\Vharonftw\ServerShopSystem\obj\Debug\ServerShopSystem.dll
+E:\Installers\Terraria\Codes and Shit\Vharonftw\ServerShopSystem\obj\Debug\ServerShopSystem.pdb
+C:\Documents and Settings\Namqui\Desktop\Kyrie\Dropbox\Codes and Shit\Tshock debug\ServerPlugins\ServerShopSystem.dll
+C:\Documents and Settings\Namqui\Desktop\Kyrie\Dropbox\Codes and Shit\Tshock debug\ServerPlugins\ServerShopSystem.pdb
+C:\Documents and Settings\Namqui\Desktop\Kyrie\Dropbox\Codes and Shit\Vharonftw\ServerShopSystem\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Namqui\Desktop\Kyrie\Dropbox\Codes and Shit\Vharonftw\ServerShopSystem\obj\Debug\ServerShopSystem.dll
+C:\Documents and Settings\Namqui\Desktop\Kyrie\Dropbox\Codes and Shit\Vharonftw\ServerShopSystem\obj\Debug\ServerShopSystem.pdb

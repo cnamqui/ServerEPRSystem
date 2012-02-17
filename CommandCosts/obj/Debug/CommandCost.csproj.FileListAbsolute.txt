@@ -1,0 +1,34 @@
+E:\Installers\Terraria\New folder\Vharonftw\CommandCosts\bin\Debug\ClassLibrary1.dll
+E:\Installers\Terraria\New folder\Vharonftw\CommandCosts\bin\Debug\ClassLibrary1.pdb
+E:\Installers\Terraria\New folder\Vharonftw\CommandCosts\bin\Debug\Community.CsharpSqlite.dll
+E:\Installers\Terraria\New folder\Vharonftw\CommandCosts\bin\Debug\Community.CsharpSqlite.SQLiteClient.dll
+E:\Installers\Terraria\New folder\Vharonftw\CommandCosts\bin\Debug\HttpServer.dll
+E:\Installers\Terraria\New folder\Vharonftw\CommandCosts\bin\Debug\MySql.Data.dll
+E:\Installers\Terraria\New folder\Vharonftw\CommandCosts\bin\Debug\MySql.Web.dll
+E:\Installers\Terraria\New folder\Vharonftw\CommandCosts\bin\Debug\Newtonsoft.Json.dll
+E:\Installers\Terraria\New folder\Vharonftw\CommandCosts\bin\Debug\TerrariaServer.exe
+E:\Installers\Terraria\New folder\Vharonftw\CommandCosts\bin\Debug\TerrariaServerAPI.dll
+E:\Installers\Terraria\New folder\Vharonftw\CommandCosts\bin\Debug\TShockAPI.dll
+E:\Installers\Terraria\New folder\Vharonftw\CommandCosts\bin\Debug\XNAHelpers.dll
+E:\Installers\Terraria\New folder\Vharonftw\CommandCosts\obj\Debug\ResolveAssemblyReference.cache
+E:\Installers\Terraria\New folder\Vharonftw\CommandCosts\bin\Debug\ServerPointSystem.dll
+E:\Installers\Terraria\New folder\Vharonftw\CommandCosts\bin\Debug\ServerPointSystem.pdb
+E:\Installers\Terraria\New folder\Tshock debug\ServerPlugins\CommandCosts.dll
+E:\Installers\Terraria\New folder\Tshock debug\ServerPlugins\CommandCosts.pdb
+E:\Installers\Terraria\New folder\Vharonftw\CommandCosts\obj\Debug\CommandCosts.dll
+E:\Installers\Terraria\New folder\Vharonftw\CommandCosts\obj\Debug\CommandCosts.pdb
+C:\Documents and Settings\Namqui\Desktop\Codes\Tshock debug\ServerPlugins\CommandCosts.dll
+C:\Documents and Settings\Namqui\Desktop\Codes\Tshock debug\ServerPlugins\CommandCosts.pdb
+C:\Documents and Settings\Namqui\Desktop\Codes\Vharonftw\CommandCosts\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Namqui\Desktop\Codes\Vharonftw\CommandCosts\obj\Debug\CommandCosts.dll
+C:\Documents and Settings\Namqui\Desktop\Codes\Vharonftw\CommandCosts\obj\Debug\CommandCosts.pdb
+E:\Installers\Terraria\Codes and Shit\Tshock debug\ServerPlugins\CommandCosts.dll
+E:\Installers\Terraria\Codes and Shit\Tshock debug\ServerPlugins\CommandCosts.pdb
+E:\Installers\Terraria\Codes and Shit\Vharonftw\CommandCosts\obj\Debug\ResolveAssemblyReference.cache
+E:\Installers\Terraria\Codes and Shit\Vharonftw\CommandCosts\obj\Debug\CommandCosts.dll
+E:\Installers\Terraria\Codes and Shit\Vharonftw\CommandCosts\obj\Debug\CommandCosts.pdb
+C:\Documents and Settings\Namqui\Desktop\Kyrie\Dropbox\Codes and Shit\Tshock debug\ServerPlugins\CommandCosts.dll
+C:\Documents and Settings\Namqui\Desktop\Kyrie\Dropbox\Codes and Shit\Tshock debug\ServerPlugins\CommandCosts.pdb
+C:\Documents and Settings\Namqui\Desktop\Kyrie\Dropbox\Codes and Shit\Vharonftw\CommandCosts\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Namqui\Desktop\Kyrie\Dropbox\Codes and Shit\Vharonftw\CommandCosts\obj\Debug\CommandCosts.dll
+C:\Documents and Settings\Namqui\Desktop\Kyrie\Dropbox\Codes and Shit\Vharonftw\CommandCosts\obj\Debug\CommandCosts.pdb

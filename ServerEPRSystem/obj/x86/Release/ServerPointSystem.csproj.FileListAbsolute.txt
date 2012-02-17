@@ -1,0 +1,5 @@
+E:\Installers\Terraria\Tshock\serverplugins\ServerPointSystem.dll
+E:\Installers\Terraria\Tshock\serverplugins\ServerPointSystem.pdb
+E:\Installers\Terraria\New folder\Vharonftw\ServerEPRSystem\obj\x86\Release\ResolveAssemblyReference.cache
+E:\Installers\Terraria\New folder\Vharonftw\ServerEPRSystem\obj\x86\Release\ServerPointSystem.dll
+E:\Installers\Terraria\New folder\Vharonftw\ServerEPRSystem\obj\x86\Release\ServerPointSystem.pdb

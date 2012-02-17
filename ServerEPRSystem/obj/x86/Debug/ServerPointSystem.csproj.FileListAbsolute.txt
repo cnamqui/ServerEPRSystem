@@ -1,0 +1,37 @@
+E:\Installers\Terraria\New folder\iProcessor-TShockPlugins-13044b6\EconoShock-server\bin\Debug\Community.CsharpSqlite.dll
+E:\Installers\Terraria\New folder\iProcessor-TShockPlugins-13044b6\EconoShock-server\bin\Debug\Community.CsharpSqlite.SQLiteClient.dll
+E:\Installers\Terraria\New folder\iProcessor-TShockPlugins-13044b6\EconoShock-server\bin\Debug\MySql.Data.dll
+E:\Installers\Terraria\New folder\iProcessor-TShockPlugins-13044b6\EconoShock-server\bin\Debug\Newtonsoft.Json.dll
+E:\Installers\Terraria\New folder\iProcessor-TShockPlugins-13044b6\EconoShock-server\bin\Debug\TerrariaServer.exe
+E:\Installers\Terraria\New folder\iProcessor-TShockPlugins-13044b6\EconoShock-server\bin\Debug\TerrariaServerAPI.dll
+E:\Installers\Terraria\New folder\iProcessor-TShockPlugins-13044b6\EconoShock-server\bin\Debug\TShockAPI.dll
+E:\Installers\Terraria\New folder\iProcessor-TShockPlugins-13044b6\EconoShock-server\bin\Debug\XNAHelpers.dll
+E:\Installers\Terraria\New folder\iProcessor-TShockPlugins-13044b6\EconoShock-server\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Installers\Terraria\New folder\iProcessor-TShockPlugins-13044b6\EconoShock-server\bin\Debug\ServerPointSystem.dll
+E:\Installers\Terraria\New folder\iProcessor-TShockPlugins-13044b6\EconoShock-server\bin\Debug\ServerPointSystem.pdb
+E:\Installers\Terraria\New folder\iProcessor-TShockPlugins-13044b6\EconoShock-server\obj\x86\Debug\ServerPointSystem.dll
+E:\Installers\Terraria\New folder\iProcessor-TShockPlugins-13044b6\EconoShock-server\obj\x86\Debug\ServerPointSystem.pdb
+E:\Installers\Terraria\Tshock\serverplugins\ServerPointSystem.dll
+E:\Installers\Terraria\Tshock\serverplugins\ServerPointSystem.pdb
+E:\Installers\Terraria\New folder\Tshock debug\ServerPlugins\ServerPointSystem.dll
+E:\Installers\Terraria\New folder\Tshock debug\ServerPlugins\ServerPointSystem.pdb
+E:\Installers\Terraria\New folder\Vharonftw\ServerEPRSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Installers\Terraria\New folder\Vharonftw\ServerEPRSystem\obj\x86\Debug\ServerPointSystem.dll
+E:\Installers\Terraria\New folder\Vharonftw\ServerEPRSystem\obj\x86\Debug\ServerPointSystem.pdb
+E:\Installers\Terraria\New folder\Vharonftw\Debug\ServerPointSystem.dll
+E:\Installers\Terraria\New folder\Vharonftw\Debug\ServerPointSystem.pdb
+C:\Documents and Settings\Namqui\Desktop\Codes\Tshock debug\ServerPlugins\ServerPointSystem.dll
+C:\Documents and Settings\Namqui\Desktop\Codes\Tshock debug\ServerPlugins\ServerPointSystem.pdb
+C:\Documents and Settings\Namqui\Desktop\Codes\Vharonftw\ServerEPRSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Namqui\Desktop\Codes\Vharonftw\ServerEPRSystem\obj\x86\Debug\ServerPointSystem.dll
+C:\Documents and Settings\Namqui\Desktop\Codes\Vharonftw\ServerEPRSystem\obj\x86\Debug\ServerPointSystem.pdb
+E:\Installers\Terraria\Codes and Shit\Tshock debug\ServerPlugins\ServerPointSystem.dll
+E:\Installers\Terraria\Codes and Shit\Tshock debug\ServerPlugins\ServerPointSystem.pdb
+E:\Installers\Terraria\Codes and Shit\Vharonftw\ServerEPRSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Installers\Terraria\Codes and Shit\Vharonftw\ServerEPRSystem\obj\x86\Debug\ServerPointSystem.dll
+E:\Installers\Terraria\Codes and Shit\Vharonftw\ServerEPRSystem\obj\x86\Debug\ServerPointSystem.pdb
+C:\Documents and Settings\Namqui\Desktop\Kyrie\Dropbox\Codes and Shit\Tshock debug\ServerPlugins\ServerPointSystem.dll
+C:\Documents and Settings\Namqui\Desktop\Kyrie\Dropbox\Codes and Shit\Tshock debug\ServerPlugins\ServerPointSystem.pdb
+C:\Documents and Settings\Namqui\Desktop\Kyrie\Dropbox\Codes and Shit\Vharonftw\ServerEPRSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Namqui\Desktop\Kyrie\Dropbox\Codes and Shit\Vharonftw\ServerEPRSystem\obj\x86\Debug\ServerPointSystem.dll
+C:\Documents and Settings\Namqui\Desktop\Kyrie\Dropbox\Codes and Shit\Vharonftw\ServerEPRSystem\obj\x86\Debug\ServerPointSystem.pdb

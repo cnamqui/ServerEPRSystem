@@ -1,0 +1,34 @@
+E:\Installers\Terraria\New folder\Vharonftw\C3RewardSystem\obj\Debug\ResolveAssemblyReference.cache
+E:\Installers\Terraria\New folder\Vharonftw\C3RewardSystem\bin\Debug\C3RewardSystem.dll
+E:\Installers\Terraria\New folder\Vharonftw\C3RewardSystem\bin\Debug\C3RewardSystem.pdb
+E:\Installers\Terraria\New folder\Vharonftw\C3RewardSystem\bin\Debug\C3Mod Plugin.dll
+E:\Installers\Terraria\New folder\Vharonftw\C3RewardSystem\bin\Debug\Community.CsharpSqlite.dll
+E:\Installers\Terraria\New folder\Vharonftw\C3RewardSystem\bin\Debug\Community.CsharpSqlite.SQLiteClient.dll
+E:\Installers\Terraria\New folder\Vharonftw\C3RewardSystem\bin\Debug\HttpServer.dll
+E:\Installers\Terraria\New folder\Vharonftw\C3RewardSystem\bin\Debug\MySql.Data.dll
+E:\Installers\Terraria\New folder\Vharonftw\C3RewardSystem\bin\Debug\MySql.Web.dll
+E:\Installers\Terraria\New folder\Vharonftw\C3RewardSystem\bin\Debug\Newtonsoft.Json.dll
+E:\Installers\Terraria\New folder\Vharonftw\C3RewardSystem\bin\Debug\ServerPointSystem.dll
+E:\Installers\Terraria\New folder\Vharonftw\C3RewardSystem\bin\Debug\TerrariaServer.exe
+E:\Installers\Terraria\New folder\Vharonftw\C3RewardSystem\bin\Debug\TShockAPI.dll
+E:\Installers\Terraria\New folder\Vharonftw\C3RewardSystem\bin\Debug\XNAHelpers.dll
+E:\Installers\Terraria\New folder\Vharonftw\C3RewardSystem\bin\Debug\ServerPointSystem.pdb
+E:\Installers\Terraria\New folder\Vharonftw\C3RewardSystem\obj\Debug\C3RewardSystem.dll
+E:\Installers\Terraria\New folder\Vharonftw\C3RewardSystem\obj\Debug\C3RewardSystem.pdb
+E:\Installers\Terraria\New folder\Tshock debug\ServerPlugins\C3RewardSystem.dll
+E:\Installers\Terraria\New folder\Tshock debug\ServerPlugins\C3RewardSystem.pdb
+C:\Documents and Settings\Namqui\Desktop\Codes\Tshock debug\ServerPlugins\C3RewardSystem.dll
+C:\Documents and Settings\Namqui\Desktop\Codes\Tshock debug\ServerPlugins\C3RewardSystem.pdb
+C:\Documents and Settings\Namqui\Desktop\Codes\Vharonftw\C3RewardSystem\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Namqui\Desktop\Codes\Vharonftw\C3RewardSystem\obj\Debug\C3RewardSystem.dll
+C:\Documents and Settings\Namqui\Desktop\Codes\Vharonftw\C3RewardSystem\obj\Debug\C3RewardSystem.pdb
+E:\Installers\Terraria\Codes and Shit\Vharonftw\C3RewardSystem\obj\Debug\ResolveAssemblyReference.cache
+E:\Installers\Terraria\Codes and Shit\Vharonftw\C3RewardSystem\obj\Debug\C3RewardSystem.dll
+E:\Installers\Terraria\Codes and Shit\Vharonftw\C3RewardSystem\obj\Debug\C3RewardSystem.pdb
+E:\Installers\Terraria\Codes and Shit\Tshock debug\ServerPlugins\C3RewardSystem.dll
+E:\Installers\Terraria\Codes and Shit\Tshock debug\ServerPlugins\C3RewardSystem.pdb
+C:\Documents and Settings\Namqui\Desktop\Kyrie\Dropbox\Codes and Shit\Tshock debug\ServerPlugins\C3RewardSystem.dll
+C:\Documents and Settings\Namqui\Desktop\Kyrie\Dropbox\Codes and Shit\Tshock debug\ServerPlugins\C3RewardSystem.pdb
+C:\Documents and Settings\Namqui\Desktop\Kyrie\Dropbox\Codes and Shit\Vharonftw\C3RewardSystem\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Namqui\Desktop\Kyrie\Dropbox\Codes and Shit\Vharonftw\C3RewardSystem\obj\Debug\C3RewardSystem.dll
+C:\Documents and Settings\Namqui\Desktop\Kyrie\Dropbox\Codes and Shit\Vharonftw\C3RewardSystem\obj\Debug\C3RewardSystem.pdb

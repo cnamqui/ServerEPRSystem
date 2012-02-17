@@ -1,0 +1,15 @@
+E:\Installers\Terraria\New folder\Vharonftw\ServerShopSystem\bin\Release\ServerShopSystem.dll
+E:\Installers\Terraria\New folder\Vharonftw\ServerShopSystem\bin\Release\ServerShopSystem.pdb
+E:\Installers\Terraria\New folder\Vharonftw\ServerShopSystem\bin\Release\Community.CsharpSqlite.dll
+E:\Installers\Terraria\New folder\Vharonftw\ServerShopSystem\bin\Release\Community.CsharpSqlite.SQLiteClient.dll
+E:\Installers\Terraria\New folder\Vharonftw\ServerShopSystem\bin\Release\MySql.Data.dll
+E:\Installers\Terraria\New folder\Vharonftw\ServerShopSystem\bin\Release\Newtonsoft.Json.dll
+E:\Installers\Terraria\New folder\Vharonftw\ServerShopSystem\bin\Release\ServerPointSystem.dll
+E:\Installers\Terraria\New folder\Vharonftw\ServerShopSystem\bin\Release\TerrariaServer.exe
+E:\Installers\Terraria\New folder\Vharonftw\ServerShopSystem\bin\Release\TerrariaServerAPI.dll
+E:\Installers\Terraria\New folder\Vharonftw\ServerShopSystem\bin\Release\TShockAPI.dll
+E:\Installers\Terraria\New folder\Vharonftw\ServerShopSystem\bin\Release\XNAHelpers.dll
+E:\Installers\Terraria\New folder\Vharonftw\ServerShopSystem\bin\Release\ServerPointSystem.pdb
+E:\Installers\Terraria\New folder\Vharonftw\ServerShopSystem\obj\Release\ResolveAssemblyReference.cache
+E:\Installers\Terraria\New folder\Vharonftw\ServerShopSystem\obj\Release\ServerShopSystem.dll
+E:\Installers\Terraria\New folder\Vharonftw\ServerShopSystem\obj\Release\ServerShopSystem.pdb

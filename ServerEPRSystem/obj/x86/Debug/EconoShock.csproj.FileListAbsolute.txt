@@ -1,0 +1,56 @@
+I:\TShock-Plugins\TShockPluginTemplate\bin\Debug\EconoShock.dll
+I:\TShock-Plugins\TShockPluginTemplate\bin\Debug\EconoShock.pdb
+I:\TShock-Plugins\TShockPluginTemplate\bin\Debug\TerrariaServer.exe
+I:\TShock-Plugins\TShockPluginTemplate\bin\Debug\TerrariaServerAPI.dll
+I:\TShock-Plugins\TShockPluginTemplate\bin\Debug\TShockAPI.dll
+I:\TShock-Plugins\TShockPluginTemplate\bin\Debug\XNAHelpers.dll
+I:\TShock-Plugins\TShockPluginTemplate\bin\Debug\MySql.Data.dll
+I:\TShock-Plugins\TShockPluginTemplate\bin\Debug\Community.CsharpSqlite.SQLiteClient.dll
+I:\TShock-Plugins\TShockPluginTemplate\bin\Debug\Newtonsoft.Json.dll
+I:\TShock-Plugins\TShockPluginTemplate\bin\Debug\Community.CsharpSqlite.dll
+I:\TShock-Plugins\TShockPluginTemplate\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\TShock-Plugins\TShockPluginTemplate\obj\x86\Debug\EconoShock.dll
+I:\TShock-Plugins\TShockPluginTemplate\obj\x86\Debug\EconoShock.pdb
+I:\TShock-Plugins\TShockPlugins\EconoShock\bin\Debug\EconoShock.dll
+I:\TShock-Plugins\TShockPlugins\EconoShock\bin\Debug\EconoShock.pdb
+I:\TShock-Plugins\TShockPlugins\EconoShock\bin\Debug\XNAHelpers.dll
+I:\TShock-Plugins\TShockPlugins\EconoShock\bin\Debug\MySql.Data.dll
+I:\TShock-Plugins\TShockPlugins\EconoShock\bin\Debug\Community.CsharpSqlite.SQLiteClient.dll
+I:\TShock-Plugins\TShockPlugins\EconoShock\bin\Debug\Newtonsoft.Json.dll
+I:\TShock-Plugins\TShockPlugins\EconoShock\bin\Debug\Community.CsharpSqlite.dll
+I:\TShock-Plugins\TShockPlugins\EconoShock\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\TShock-Plugins\TShockPlugins\EconoShock\obj\x86\Debug\EconoShock.dll
+I:\TShock-Plugins\TShockPlugins\EconoShock\obj\x86\Debug\EconoShock.pdb
+F:\Documents and Settings\Nick\TShockPlugins\EconoShock\bin\Debug\EconoShock.dll
+F:\Documents and Settings\Nick\TShockPlugins\EconoShock\bin\Debug\EconoShock.pdb
+F:\Documents and Settings\Nick\TShockPlugins\EconoShock\bin\Debug\XNAHelpers.dll
+F:\Documents and Settings\Nick\TShockPlugins\EconoShock\bin\Debug\MySql.Data.dll
+F:\Documents and Settings\Nick\TShockPlugins\EconoShock\bin\Debug\Community.CsharpSqlite.SQLiteClient.dll
+F:\Documents and Settings\Nick\TShockPlugins\EconoShock\bin\Debug\Newtonsoft.Json.dll
+F:\Documents and Settings\Nick\TShockPlugins\EconoShock\bin\Debug\Community.CsharpSqlite.dll
+F:\Documents and Settings\Nick\TShockPlugins\EconoShock\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Documents and Settings\Nick\TShockPlugins\EconoShock\obj\x86\Debug\EconoShock.dll
+F:\Documents and Settings\Nick\TShockPlugins\EconoShock\obj\x86\Debug\EconoShock.pdb
+E:\Installers\Terraria\New folder\iProcessor-TShockPlugins-13044b6\EconoShock\bin\Debug\Community.CsharpSqlite.dll
+E:\Installers\Terraria\New folder\iProcessor-TShockPlugins-13044b6\EconoShock\bin\Debug\Community.CsharpSqlite.SQLiteClient.dll
+E:\Installers\Terraria\New folder\iProcessor-TShockPlugins-13044b6\EconoShock\bin\Debug\MySql.Data.dll
+E:\Installers\Terraria\New folder\iProcessor-TShockPlugins-13044b6\EconoShock\bin\Debug\Newtonsoft.Json.dll
+E:\Installers\Terraria\New folder\iProcessor-TShockPlugins-13044b6\EconoShock\bin\Debug\XNAHelpers.dll
+E:\Installers\Terraria\New folder\iProcessor-TShockPlugins-13044b6\EconoShock\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Installers\Terraria\New folder\iProcessor-TShockPlugins-13044b6\EconoShock\bin\Debug\ServerPointSystem.dll
+E:\Installers\Terraria\New folder\iProcessor-TShockPlugins-13044b6\EconoShock\bin\Debug\ServerPointSystem.pdb
+E:\Installers\Terraria\New folder\iProcessor-TShockPlugins-13044b6\EconoShock\obj\x86\Debug\ServerPointSystem.dll
+E:\Installers\Terraria\New folder\iProcessor-TShockPlugins-13044b6\EconoShock\obj\x86\Debug\ServerPointSystem.pdb
+E:\Installers\Terraria\New folder\iProcessor-TShockPlugins-13044b6\EconoShock-server\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Installers\Terraria\New folder\iProcessor-TShockPlugins-13044b6\EconoShock-server\bin\Debug\Community.CsharpSqlite.dll
+E:\Installers\Terraria\New folder\iProcessor-TShockPlugins-13044b6\EconoShock-server\bin\Debug\Community.CsharpSqlite.SQLiteClient.dll
+E:\Installers\Terraria\New folder\iProcessor-TShockPlugins-13044b6\EconoShock-server\bin\Debug\MySql.Data.dll
+E:\Installers\Terraria\New folder\iProcessor-TShockPlugins-13044b6\EconoShock-server\bin\Debug\Newtonsoft.Json.dll
+E:\Installers\Terraria\New folder\iProcessor-TShockPlugins-13044b6\EconoShock-server\bin\Debug\TerrariaServer.exe
+E:\Installers\Terraria\New folder\iProcessor-TShockPlugins-13044b6\EconoShock-server\bin\Debug\TerrariaServerAPI.dll
+E:\Installers\Terraria\New folder\iProcessor-TShockPlugins-13044b6\EconoShock-server\bin\Debug\TShockAPI.dll
+E:\Installers\Terraria\New folder\iProcessor-TShockPlugins-13044b6\EconoShock-server\bin\Debug\XNAHelpers.dll
+E:\Installers\Terraria\New folder\iProcessor-TShockPlugins-13044b6\EconoShock-server\bin\Debug\ServerPointSystem2.dll
+E:\Installers\Terraria\New folder\iProcessor-TShockPlugins-13044b6\EconoShock-server\bin\Debug\ServerPointSystem2.pdb
+E:\Installers\Terraria\New folder\iProcessor-TShockPlugins-13044b6\EconoShock-server\obj\x86\Debug\ServerPointSystem2.dll
+E:\Installers\Terraria\New folder\iProcessor-TShockPlugins-13044b6\EconoShock-server\obj\x86\Debug\ServerPointSystem2.pdb
