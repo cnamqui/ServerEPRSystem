@@ -14,7 +14,7 @@ using System.Text;
 
 namespace CommandCosts
 {
-    [APIVersion(1, 10)]
+    [APIVersion(1, 11)]
     public class CommandCosts : TerrariaPlugin
     {
         private static SqlTableEditor SQLEditor;

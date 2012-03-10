@@ -14,7 +14,7 @@ using System.Text;
 
 namespace CommandShop
 {
-    [APIVersion(1, 10)]
+    [APIVersion(1, 11)]
     public class CommandShop : TerrariaPlugin
     {
         private static SqlTableEditor SQLEditor;

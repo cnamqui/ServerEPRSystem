@@ -15,7 +15,7 @@ using C3Mod;
 
 namespace C3RewardSystem
 {
-    [APIVersion(1, 10)]
+    [APIVersion(1, 11)]
     public class C3RewardSystem : TerrariaPlugin
     {
         private static CEConfigFile CEConfig { get; set; }

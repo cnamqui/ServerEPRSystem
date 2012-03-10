@@ -8,3 +8,8 @@ C:\Documents and Settings\Namqui\Desktop\Kyrie\Dropbox\Codes and Shit\Tshock deb
 C:\Documents and Settings\Namqui\Desktop\Kyrie\Dropbox\Codes and Shit\Vharonftw\CommandCostV2\obj\Debug\ResolveAssemblyReference.cache
 C:\Documents and Settings\Namqui\Desktop\Kyrie\Dropbox\Codes and Shit\Vharonftw\CommandCostV2\obj\Debug\CommandShop.dll
 C:\Documents and Settings\Namqui\Desktop\Kyrie\Dropbox\Codes and Shit\Vharonftw\CommandCostV2\obj\Debug\CommandShop.pdb
+C:\TshockCode\Tshock debug\ServerPlugins\CommandShop.dll
+C:\TshockCode\Tshock debug\ServerPlugins\CommandShop.pdb
+C:\TshockCode\vharonftw-ServerEPRSystem-5eb9ea4\CommandCostV2\obj\Debug\ResolveAssemblyReference.cache
+C:\TshockCode\vharonftw-ServerEPRSystem-5eb9ea4\CommandCostV2\obj\Debug\CommandShop.dll
+C:\TshockCode\vharonftw-ServerEPRSystem-5eb9ea4\CommandCostV2\obj\Debug\CommandShop.pdb

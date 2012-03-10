@@ -32,3 +32,8 @@ C:\Documents and Settings\Namqui\Desktop\Kyrie\Dropbox\Codes and Shit\Tshock deb
 C:\Documents and Settings\Namqui\Desktop\Kyrie\Dropbox\Codes and Shit\Vharonftw\CommandCosts\obj\Debug\ResolveAssemblyReference.cache
 C:\Documents and Settings\Namqui\Desktop\Kyrie\Dropbox\Codes and Shit\Vharonftw\CommandCosts\obj\Debug\CommandCosts.dll
 C:\Documents and Settings\Namqui\Desktop\Kyrie\Dropbox\Codes and Shit\Vharonftw\CommandCosts\obj\Debug\CommandCosts.pdb
+C:\TshockCode\Tshock debug\ServerPlugins\CommandCosts.dll
+C:\TshockCode\Tshock debug\ServerPlugins\CommandCosts.pdb
+C:\TshockCode\vharonftw-ServerEPRSystem-5eb9ea4\CommandCosts\obj\Debug\ResolveAssemblyReference.cache
+C:\TshockCode\vharonftw-ServerEPRSystem-5eb9ea4\CommandCosts\obj\Debug\CommandCosts.dll
+C:\TshockCode\vharonftw-ServerEPRSystem-5eb9ea4\CommandCosts\obj\Debug\CommandCosts.pdb

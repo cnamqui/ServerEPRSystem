@@ -32,3 +32,8 @@ C:\Documents and Settings\Namqui\Desktop\Kyrie\Dropbox\Codes and Shit\Tshock deb
 C:\Documents and Settings\Namqui\Desktop\Kyrie\Dropbox\Codes and Shit\Vharonftw\RankSystem\obj\Debug\ResolveAssemblyReference.cache
 C:\Documents and Settings\Namqui\Desktop\Kyrie\Dropbox\Codes and Shit\Vharonftw\RankSystem\obj\Debug\RankSystem.dll
 C:\Documents and Settings\Namqui\Desktop\Kyrie\Dropbox\Codes and Shit\Vharonftw\RankSystem\obj\Debug\RankSystem.pdb
+C:\TshockCode\Tshock debug\ServerPlugins\RankSystem.dll
+C:\TshockCode\Tshock debug\ServerPlugins\RankSystem.pdb
+C:\TshockCode\vharonftw-ServerEPRSystem-5eb9ea4\RankSystem\obj\Debug\ResolveAssemblyReference.cache
+C:\TshockCode\vharonftw-ServerEPRSystem-5eb9ea4\RankSystem\obj\Debug\RankSystem.dll
+C:\TshockCode\vharonftw-ServerEPRSystem-5eb9ea4\RankSystem\obj\Debug\RankSystem.pdb

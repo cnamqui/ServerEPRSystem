@@ -15,7 +15,7 @@ using System.Text;
 
 namespace ServerShopSystem
 {
-    [APIVersion(1, 10)]
+    [APIVersion(1, 11)]
     public class ServerShopSystem : TerrariaPlugin
     {
         private static string ShopLogs = Path.Combine(TShock.SavePath, "ShopLogs");
