@@ -37,3 +37,8 @@ C:\TshockCode\Tshock debug\ServerPlugins\CommandCosts.pdb
 C:\TshockCode\vharonftw-ServerEPRSystem-5eb9ea4\CommandCosts\obj\Debug\ResolveAssemblyReference.cache
 C:\TshockCode\vharonftw-ServerEPRSystem-5eb9ea4\CommandCosts\obj\Debug\CommandCosts.dll
 C:\TshockCode\vharonftw-ServerEPRSystem-5eb9ea4\CommandCosts\obj\Debug\CommandCosts.pdb
+C:\Users\IglooAtHome\git\Tshock debug\ServerPlugins\CommandCosts.dll
+C:\Users\IglooAtHome\git\Tshock debug\ServerPlugins\CommandCosts.pdb
+C:\Users\IglooAtHome\git\ServerEPRSystem\CommandCosts\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\IglooAtHome\git\ServerEPRSystem\CommandCosts\obj\Debug\CommandCosts.dll
+C:\Users\IglooAtHome\git\ServerEPRSystem\CommandCosts\obj\Debug\CommandCosts.pdb

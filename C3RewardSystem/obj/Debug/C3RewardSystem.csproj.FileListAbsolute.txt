@@ -37,3 +37,8 @@ C:\TshockCode\Tshock debug\ServerPlugins\C3RewardSystem.pdb
 C:\TshockCode\vharonftw-ServerEPRSystem-5eb9ea4\C3RewardSystem\obj\Debug\ResolveAssemblyReference.cache
 C:\TshockCode\vharonftw-ServerEPRSystem-5eb9ea4\C3RewardSystem\obj\Debug\C3RewardSystem.dll
 C:\TshockCode\vharonftw-ServerEPRSystem-5eb9ea4\C3RewardSystem\obj\Debug\C3RewardSystem.pdb
+C:\Users\IglooAtHome\git\Tshock debug\ServerPlugins\C3RewardSystem.dll
+C:\Users\IglooAtHome\git\Tshock debug\ServerPlugins\C3RewardSystem.pdb
+C:\Users\IglooAtHome\git\ServerEPRSystem\C3RewardSystem\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\IglooAtHome\git\ServerEPRSystem\C3RewardSystem\obj\Debug\C3RewardSystem.dll
+C:\Users\IglooAtHome\git\ServerEPRSystem\C3RewardSystem\obj\Debug\C3RewardSystem.pdb

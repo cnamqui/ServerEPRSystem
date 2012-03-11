@@ -37,3 +37,8 @@ C:\TshockCode\Tshock debug\ServerPlugins\RankSystem.pdb
 C:\TshockCode\vharonftw-ServerEPRSystem-5eb9ea4\RankSystem\obj\Debug\ResolveAssemblyReference.cache
 C:\TshockCode\vharonftw-ServerEPRSystem-5eb9ea4\RankSystem\obj\Debug\RankSystem.dll
 C:\TshockCode\vharonftw-ServerEPRSystem-5eb9ea4\RankSystem\obj\Debug\RankSystem.pdb
+C:\Users\IglooAtHome\git\Tshock debug\ServerPlugins\RankSystem.dll
+C:\Users\IglooAtHome\git\Tshock debug\ServerPlugins\RankSystem.pdb
+C:\Users\IglooAtHome\git\ServerEPRSystem\RankSystem\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\IglooAtHome\git\ServerEPRSystem\RankSystem\obj\Debug\RankSystem.dll
+C:\Users\IglooAtHome\git\ServerEPRSystem\RankSystem\obj\Debug\RankSystem.pdb

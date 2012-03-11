@@ -13,3 +13,8 @@ C:\TshockCode\Tshock debug\ServerPlugins\CommandShop.pdb
 C:\TshockCode\vharonftw-ServerEPRSystem-5eb9ea4\CommandCostV2\obj\Debug\ResolveAssemblyReference.cache
 C:\TshockCode\vharonftw-ServerEPRSystem-5eb9ea4\CommandCostV2\obj\Debug\CommandShop.dll
 C:\TshockCode\vharonftw-ServerEPRSystem-5eb9ea4\CommandCostV2\obj\Debug\CommandShop.pdb
+C:\Users\IglooAtHome\git\Tshock debug\ServerPlugins\CommandShop.dll
+C:\Users\IglooAtHome\git\Tshock debug\ServerPlugins\CommandShop.pdb
+C:\Users\IglooAtHome\git\ServerEPRSystem\CommandCostV2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\IglooAtHome\git\ServerEPRSystem\CommandCostV2\obj\Debug\CommandShop.dll
+C:\Users\IglooAtHome\git\ServerEPRSystem\CommandCostV2\obj\Debug\CommandShop.pdb
