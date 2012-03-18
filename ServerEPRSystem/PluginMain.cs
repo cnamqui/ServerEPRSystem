@@ -806,6 +806,7 @@ namespace ServerPointSystem
             Commands.ChatCommands.Add(new Command("manage", DeductAll, "deductall"));
             Commands.ChatCommands.Add(new Command("manage", LadyLuck, "ladylucksmileson","llso"));
             Commands.ChatCommands.Add(new Command("manage", ReaperBless, "reaperbless", "rb"));
+            Commands.ChatCommands.Add(new Command("manage", GetPlayerBalance,"balance","bal"));
             bool changepoints = false;
             bool pouchperm = false;
             bool manageperm = false;
@@ -856,7 +857,25 @@ namespace ServerPointSystem
                 File.Create(PayLogSavePath).Close();
             }
         }
-
+        //Sorry if I syntax fail, I don't have C# completely down yet.
+        //This is so admins don't have to get into the DB to look at shard amounts, basically peeking at players' pouch 
+        public void GetPlayerBalance(CommandArgs c)
+        {
+            if(c.Parameters.Count>0)
+            {
+                for(int i=0;i<EPRPlayers.Length;i++)
+                {
+                    if(EPRPlayers(i).TSPlayer.Name == (c.Parameters[0]))
+                    {
+                        c.Player.SendMessage(EPRPlayers(i).TSPlayer.Name + " has " + EPRPlayers(i).Account.ToString(), Color.Yellow);
+                    }
+                }
+            }
+            else
+            {
+                c.Player.SendMessage("Invalid Syntax! Correct syntax is /balance <name> or /bal <name>");
+            }
+        }
         public void OnUpdate()
         {
             //List<int> RemoveTRPlayer = new List<int>();
