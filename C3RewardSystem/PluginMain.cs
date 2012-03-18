@@ -198,13 +198,25 @@ namespace C3RewardSystem
                 {
                     EPRPlayer EKiller = ServerPointSystem.ServerPointSystem.GetEPRPlayerByIndex(e.Killer.TSPlayer.Index);
                     EPRPlayer EKilled = ServerPointSystem.ServerPointSystem.GetEPRPlayerByIndex(e.Killed.TSPlayer.Index);
+                    //The two ints here are the two account balances.
                     int killerbal = EKiller.DisplayAccount;
                     int killedbal = EKilled.DisplayAccount;
+                    //If the two are within the proper range, it will add and deduct.
                     if(InPointRange(killerbal, killedbal))
                     {
+                        //gain is one percent of the balance of the player killed multiplied by one hundred minus the deathtoll.
                         float gain = (killedbal * (100 - ServerPointSystem.ServerPointSystem.DeathToll)/100) + PvPKillReward;
+                        //This notifies the player that they just pwned someone, and got some shards from them.
                         e.Killer.TSPlayer.SendMessage("You gained " + ((int)gain).ToString() + " " + ServerPointSystem.ServerPointSystem.currname + "(s)!", Color.Green);
+                        //This adds points to the killer's shard count.
                         EPREvents.PointOperate(EKiller, (int)gain, PointOperateReason.PVP);
+                        //The following is my proposed changes.
+                        //Notify the loser of his losses.
+                        e.Killed.TSPlayer.SendMessage("You lost " + ((int)gain)).ToString() + " " + ServerPointSystem.ServerPointSystem.currname +"(s)!", Color.Green);
+                        //Deduct the amount the killer gained by adding a negative amount. This appears to be how /deduct works, so I am mimicking it.
+                        EPREvents.PointOperate(EKilled, -((int)gain),PointOperateReason.PVP);
+                        //The comments were mainly for my own use, by the way.
+                        
                     }
                 }
             }
