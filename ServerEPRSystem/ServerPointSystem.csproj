@@ -85,9 +85,8 @@
     <Reference Include="TerrariaServer">
       <HintPath>..\References\TerrariaServer.exe</HintPath>
     </Reference>
-    <Reference Include="TShockAPI, Version=3.3.4.1216, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\References\TShockAPI.dll</HintPath>
+    <Reference Include="TShockAPI">
+      <HintPath>..\References\api111\TShockAPI.dll</HintPath>
     </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -13,7 +13,7 @@ using System.Text;
 
 namespace RankSystem
 {
-    [APIVersion(1, 10)]
+    [APIVersion(1, 11)]
     public class RankSystem : TerrariaPlugin
     {
         private static RankConfigFile RankConfig { get; set; }

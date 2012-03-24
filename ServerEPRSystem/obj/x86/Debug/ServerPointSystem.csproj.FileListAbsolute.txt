@@ -35,3 +35,13 @@ C:\Documents and Settings\Namqui\Desktop\Kyrie\Dropbox\Codes and Shit\Tshock deb
 C:\Documents and Settings\Namqui\Desktop\Kyrie\Dropbox\Codes and Shit\Vharonftw\ServerEPRSystem\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Documents and Settings\Namqui\Desktop\Kyrie\Dropbox\Codes and Shit\Vharonftw\ServerEPRSystem\obj\x86\Debug\ServerPointSystem.dll
 C:\Documents and Settings\Namqui\Desktop\Kyrie\Dropbox\Codes and Shit\Vharonftw\ServerEPRSystem\obj\x86\Debug\ServerPointSystem.pdb
+C:\TshockCode\Tshock debug\ServerPlugins\ServerPointSystem.dll
+C:\TshockCode\Tshock debug\ServerPlugins\ServerPointSystem.pdb
+C:\TshockCode\vharonftw-ServerEPRSystem-5eb9ea4\ServerEPRSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\TshockCode\vharonftw-ServerEPRSystem-5eb9ea4\ServerEPRSystem\obj\x86\Debug\ServerPointSystem.dll
+C:\TshockCode\vharonftw-ServerEPRSystem-5eb9ea4\ServerEPRSystem\obj\x86\Debug\ServerPointSystem.pdb
+C:\Users\IglooAtHome\git\Tshock debug\ServerPlugins\ServerPointSystem.dll
+C:\Users\IglooAtHome\git\Tshock debug\ServerPlugins\ServerPointSystem.pdb
+C:\Users\IglooAtHome\git\ServerEPRSystem\ServerEPRSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\IglooAtHome\git\ServerEPRSystem\ServerEPRSystem\obj\x86\Debug\ServerPointSystem.dll
+C:\Users\IglooAtHome\git\ServerEPRSystem\ServerEPRSystem\obj\x86\Debug\ServerPointSystem.pdb
